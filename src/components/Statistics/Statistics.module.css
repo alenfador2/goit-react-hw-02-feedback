@@ -1,0 +1,27 @@
+.statistic {
+  height: 40px;
+  display: flex;
+  justify-content: stretch;
+  flex-direction: row;
+  gap: 10px;
+  font-weight: bolder;
+}
+.good-counter,
+.neutral-counter,
+.bad-counter,
+.total-counter,
+.percentage {
+  display: flex;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 900;
+}
+.good-counter {
+  color: green;
+}
+.neutral-counter {
+  color: blue;
+}
+.bad-counter {
+  color: red;
+}

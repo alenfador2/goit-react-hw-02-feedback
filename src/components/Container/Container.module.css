@@ -1,0 +1,11 @@
+.main_container {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  margin-inline: auto;
+  margin-top: 40px;
+  border-radius: 50px;
+  box-shadow: 2px 3px 26px 2px rgba(42, 43, 50, 1);
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+}
